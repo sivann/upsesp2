@@ -1,3 +1,5 @@
+     Most of this work has been included in the NUT ups driver, this is left here for historical reasons.
+
 Read UPS status with ESP2 protocol. For UPSes like Liebert/Emerson GXT2, NXe, others maybe.
 
 This was later contributed to NUT (NetworkUPS Tools) (https://github.com/networkupstools/nut/blob/master/drivers/liebert-esp2.c)
